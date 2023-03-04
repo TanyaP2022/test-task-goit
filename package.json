@@ -2,7 +2,7 @@
   "name": "test-task-goit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TanyaP2022.github.io/TestTaskGOIT/",
+  "homepage": "https://TanyaP2022.github.io/test-task-goit/",
   "dependencies": {
     "@emotion/styled": "^11.10.6",
     "@testing-library/jest-dom": "^5.16.3",
