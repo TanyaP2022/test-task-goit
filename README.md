@@ -1,4 +1,4 @@
-TestTaskGOIT
+test-task-goit
 
 Для роботи використано шаблон
 [Create React App](https://github.com/facebook/create-react-app)..
